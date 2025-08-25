@@ -1,6 +1,6 @@
 # ⌨️ I am currently working on
-- [GitHub Vault](https://github.com/dDreistein/obsidian-github-vault): obsidian plugin to sync your vault with a GitHub repository
-- [Absendo](https://github.com/dDreistein/absendo) by [@notacodes](https://github.com/notacodes): a tool that automatically fills out BBZW absence forms 
+- **[GitHub Vault](https://github.com/dDreistein/obsidian-github-vault):** obsidian plugin to sync your vault with a GitHub repository
+- **[Absendo](https://github.com/dDreistein/absendo) by [@notacodes](https://github.com/notacodes):** a tool that automatically fills out BBZW absence forms 
 
 # ✨ About me
 I started my apprenticeship in **Application Development** in Summer 2024.
