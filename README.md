@@ -3,6 +3,6 @@
 
 # ✨ About me
 I started my apprenticeship in **Application Development** in Summer 2024.
-In my leisure time I like developing small **games in unity**.
+In my leisure time I like developing small **games**.
 
 ![happie](happie-4x.avif)
