@@ -3,6 +3,5 @@
 
 # About me
 I started my apprenticeship in **Application Development** in Summer 2024.
-In my leisure time I like developing small **games**.
 
 ![happie](hackercat-4x.gif)
